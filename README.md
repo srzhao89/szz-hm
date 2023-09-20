@@ -1,6 +1,6 @@
 # szz-hm
 
-Here we attach the simulation codes used in the following paper:
+Here we attach the codes used in the empirical illustration in the following paper:
 
 Leopold, S., V. Zelenyuk, and S. Zhao (2023), Statistical Inference for Hicks–Moorsteen Productivity Indices.
 
