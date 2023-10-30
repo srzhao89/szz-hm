@@ -137,7 +137,7 @@ coverage.simple.mean <- function(x1,y1,x2,y2) {
     res=list(bounds0=bounds0,
              bounds1=bounds1,
              bounds2=bounds2,
-             sig=c(sig,sig.s,sig.t),
+             sig=c(sig),
              estimate=c(HM.nk,HM.bias,HM.nk-HM.bias)
     )
   }
